@@ -1,0 +1,6 @@
+{
+    "artifact_to_planet_count_ratio": 0.33,
+    "chance_of_first_planet_bonus": 1,
+    "chance_of_second_planet_bonus": 0.5,
+    "chance_of_easter_egg_planet_bonus": 0.05
+}
